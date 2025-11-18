@@ -1,0 +1,8 @@
+geopoeisis
+hopper
+orderweb
+food pony
+restaurant
+rider
+drn_id
+deliveroo
